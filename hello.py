@@ -1,1 +1,1 @@
-print("under cicd pipeline")
+print("✅ Hello from CI/CD Pipeline!")
