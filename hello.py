@@ -1,1 +1,1 @@
-print("✅ Hello from CI/CD Pipeline!")
+print("✅ Hello from CI/CD Pipeline!");
